@@ -1,6 +1,7 @@
 # Customer Purchase Prediction with KNN and Decision Tree
 
 This project compares K-Nearest Neighbors (KNN) and Decision Tree classifiers to predict customer purchases.
+Created by: **Yasin Dehghani**
 
 ## Dataset
 The dataset contains several features about customers and a binary target variable indicating whether the customer made a purchase.
